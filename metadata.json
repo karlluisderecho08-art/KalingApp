@@ -1,0 +1,6 @@
+{
+  "name": "KalingApp",
+  "description": "Premium AI-assisted breastfeeding support and maternal healthcare application featuring AI chat guidance, verified knowledge hubs, donor milk pathways, and professional facility directories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
